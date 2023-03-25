@@ -1,5 +1,5 @@
 # Blockx SlimeVR case
-Blockx is a case for SlimeVR built from the ground up with the intention of making a strong and easy to print case while also being easy to use and taking up as little space as possible. This is my first SlimeVR case and this is the first revision, it might not be perfect for everyone.
+Blockx is a case for SlimeVR built from the ground up with the intention of making a strong and easy to print case while also being easy to use and taking up as little space as possible. This is my first SlimeVR case and it might not be perfect for everyone.
 
 Component support:
 * BMI160
@@ -11,6 +11,8 @@ Component support:
 
 Made with Blender 3.4
 
+I have printed most of the files except for the lids 6 through 9.
+All were printed sucesfully with both the Creality Slicer 4.8.2 and SuperSlicer 2.4 on a pretty much stock Ender 3 v2.
 
 These cases are and will stay a W.I.P. for a little while.
 
