@@ -11,6 +11,8 @@ Component support:
 
 ![Image of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/RenderXT.png)
 
+![Rotating GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTRotate.gif)
+
 Made with Blender 3.4.1
 
 I have printed most of the files except for the lids 6 through 9.
