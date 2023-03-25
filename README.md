@@ -10,8 +10,8 @@ Component support:
 * 24 or 26AWG wires (extra tall version of these cases prefered for thicker wires)
 
 ![Image of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/RenderXT.png)
-
 ![Rotating GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTRotate.gif)
+![Exploding GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTExplode.gif)
 
 Made with Blender 3.4.1
 
