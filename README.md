@@ -20,4 +20,6 @@ All were printed sucesfully with both the Creality Slicer 4.8.2 and SuperSlicer 
 
 These cases are and will stay a W.I.P. for a little while.
 
+The battery is supposed to sit underneeth all the components which you can mount on the provided insert using some (hot) glue.
+
 Extensions will be added later and little tweaks will happen over time
