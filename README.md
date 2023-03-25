@@ -13,6 +13,8 @@ Component support:
 ![Rotating GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTRotate.gif)
 ![Exploding GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTExplode.gif)
 
+For connecting the components, please refer to the SlimeVR documentation (https://docs.slimevr.dev/diy/tracker-schematics.html)
+
 Made with Blender 3.4.1
 
 I have printed most of the files except for the lids 6 through 9.
