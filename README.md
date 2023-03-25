@@ -11,11 +11,15 @@ Component support:
 
 ![Image of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/RenderXT.png)
 
+![Rotating GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTRotate.gif)
+
 Made with Blender 3.4.1
 
 I have printed most of the files except for the lids 6 through 9.
 All were printed sucesfully with both the Creality Slicer 4.8.2 and SuperSlicer 2.4 on a pretty much stock Ender 3 v2.
 
 These cases are and will stay a W.I.P. for a little while.
+
+The battery is supposed to sit underneeth all the components which you can mount on the provided insert using some (hot) glue.
 
 Extensions will be added later and little tweaks will happen over time
