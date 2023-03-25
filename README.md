@@ -9,6 +9,8 @@ Component support:
 * DPDT 2P2T power switch
 * 24 or 26AWG wires (extra tall version of these cases prefered for thicker wires)
 
+![Image of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/RenderXT.png)
+
 Made with Blender 3.4.1
 
 I have printed most of the files except for the lids 6 through 9.
