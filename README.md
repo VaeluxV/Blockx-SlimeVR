@@ -9,7 +9,7 @@ Component support:
 * DPDT 2P2T power switch
 * 24 or 26AWG wires (extra tall version of these cases prefered for thicker wires)
 
-Made with Blender 3.4
+Made with Blender 3.4.1
 
 I have printed most of the files except for the lids 6 through 9.
 All were printed sucesfully with both the Creality Slicer 4.8.2 and SuperSlicer 2.4 on a pretty much stock Ender 3 v2.
