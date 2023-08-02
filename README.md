@@ -15,7 +15,7 @@ Component support:
 
 For connecting the components, please refer to the SlimeVR documentation (https://docs.slimevr.dev/diy/tracker-schematics.html)
 
-Made with Blender 3.4.1 and 3.5
+Made with Blender 3.4.1 - 3.6.1
 
 I have printed most of the files except for the lids 6 through 9.
 All were printed sucesfully with both the Creality Slicer 4.8.2, PrusaSlicer latest and SuperSlicer 2.4 on a pretty much stock Ender 3 v2.
