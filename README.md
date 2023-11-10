@@ -9,19 +9,25 @@ Component support:
 * DPDT 2P2T power switch
 * 24 or 26AWG wires (extra tall version of these cases prefered for thicker wires)
 
-![Image of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/RenderXT.png)
-![Rotating GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTRotate.gif)
-![Exploding GIF of the extra tall version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTExplode.gif)
-
 For connecting the components, please refer to the SlimeVR documentation (https://docs.slimevr.dev/diy/tracker-schematics.html)
+
+![Image of the third version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/24d56ccf9b8a0610c81bf539950913f449914375/Renders/Render-V3-Main.png)
+![Image of the third, transparent version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/24d56ccf9b8a0610c81bf539950913f449914375/Renders/Render-V3-Transparent-2.png)
+![Image of the third, transparent version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/24d56ccf9b8a0610c81bf539950913f449914375/Renders/Render-V3-Transparent-1.png)
+
 
 Made with Blender 3.4.1 - 3.6.1
 
-I have printed most of the files except for the lids 6 through 9.
-All were printed sucesfully with both the Creality Slicer 4.8.2, PrusaSlicer latest and SuperSlicer 2.4 on a pretty much stock Ender 3 v2.
+![Image of the second version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/RenderXT.png)
+![Rotating GIF of the second version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTRotate.gif)
+Refer to the folowing image for mounting components (Battery sled not shown)
+![Exploding GIF of the second version of this case](https://github.com/SubzeV/Blockx-SlimeVR/blob/main/Renders/CasesXTExplode.gif)
+
+All files were printed sucesfully with both the Creality Slicer, PrusaSlicer and SuperSlicer on a stock Ender 3 v2.
 
 These cases are and will stay a W.I.P. for a little while.
 
 The battery is supposed to sit underneeth all the components which you can mount on the provided insert using some (hot) glue.
 
-Extensions have been added and little tweaks will happen over time
+
+~Subze
