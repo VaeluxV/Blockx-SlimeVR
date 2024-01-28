@@ -1,3 +1,8 @@
+# Please note!
+I have made a new case that is way more user friendly and works better, you can find it here: https://github.com/SubzeV/VertexArmor-Enclosure
+
+This case was my first and will still be available, but I don't recommend to use it as the lid easily falls off and the general tolerances are fine but not optimal.
+
 # Blockx SlimeVR case
 Blockx is a case for SlimeVR built from the ground up with the intention of making a strong and easy to print case while also being easy to use and taking up as little space as possible. This is my first SlimeVR case and it might not be perfect for everyone.
 
